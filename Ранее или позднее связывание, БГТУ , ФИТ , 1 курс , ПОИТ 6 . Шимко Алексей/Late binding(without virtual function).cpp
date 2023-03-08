@@ -1,0 +1,1 @@
+someFunction(arg); // some - какой-то

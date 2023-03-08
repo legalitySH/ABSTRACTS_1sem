@@ -1,0 +1,5 @@
+﻿  array.cpp
+D:\1 КУРС\Рефераты\Arrays\Arrays\array.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\1 КУРС\Рефераты\Arrays\Arrays\array.cpp(3,14): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+D:\1 КУРС\Рефераты\Arrays\Arrays\array.cpp(3,81): warning C4056: переполнение при арифметических операциях с константой с плавающей точкой
+  Arrays.vcxproj -> D:\1 КУРС\Рефераты\Arrays\x64\Debug\Arrays.exe

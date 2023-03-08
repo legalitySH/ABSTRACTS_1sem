@@ -1,0 +1,3 @@
+﻿  calendar.cpp
+D:\1 КУРС\Рефераты\Calendar\calendar.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Calendar.vcxproj -> D:\1 КУРС\Рефераты\Calendar\x64\Debug\Calendar.exe
